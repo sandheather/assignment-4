@@ -3,21 +3,6 @@ html {
 	font-size: 0.5rem;
 }
 
-nav{
-	background-color: #6f2a1a;
-	text-align: center;
-}
-
-nav ul{
-	list-style-type: none;
-	margin:0;
-	padding:0;
-}
-
-nav li{
-	display: inline-block;
-}
-
 h1{
 	background-color: #827262;
 	padding: 1em 1em 1em 1em;
@@ -99,4 +84,19 @@ figcaption{
 
 dt{
 	font-weight: bold;
+}
+
+nav{
+	background-color: #6f2a1a;
+	text-align: center;
+}
+
+nav ul{
+	list-style-type: none;
+	margin:0;
+	padding:0;
+}
+
+nav li{
+	display: inline-block;
 }
