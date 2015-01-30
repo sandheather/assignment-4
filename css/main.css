@@ -12,7 +12,8 @@ h1{
 	font-style: normal;
 	font-family: 'Fredericka the Great', cursive;
 	line-height: 1.5;
-	color: #595345;
+	color: white;
+	text-align: center;
 }
 
 h2{
@@ -92,6 +93,15 @@ nav{
 }
 
 nav ul{
+	background-color: #827262;
+	padding: 1em 1em 1em 1em;
+	margin:0;
+	font-weight: normal;
+	font-size: 4rem;
+	font-style: normal;
+	font-family: times;
+	line-height: 1.5;
+	color: #fff;
 	list-style-type: none;
 	margin:0;
 	padding:0;
